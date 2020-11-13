@@ -52,7 +52,7 @@
 export default {
   data () {
     return {
-      progress: 0.84,
+      progress: 0.8422,
       left: false,
       name: 'Ник',
       sorname: 'Уайлд'
