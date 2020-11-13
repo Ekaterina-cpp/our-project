@@ -26,7 +26,7 @@
 export default {
   data () {
     return {
-      progress: 0.5,
+      progress: 0.52,
       left: false
     }
   }
